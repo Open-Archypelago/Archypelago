@@ -1,6 +1,6 @@
 # Problem Statement Building Block
 
-Workshop structure and template for producing an effective enterprise architecture problem sdtatement.
+Workshop structure and template for producing an effective enterprise architecture problem statement.
 
 ## Description
 
