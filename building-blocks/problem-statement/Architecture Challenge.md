@@ -1,6 +1,5 @@
 # Architecture Challenge Statement Development​
-## Alan Inglis
-## Open Archypelago
+## Alan Inglis - Open Archypelago
 This project is licensed under the GPL-3.0 License - see the [LICENSE.md](https://github.com/Open-Archypelago/Archypelago/blob/main/LICENSE) file for details
 
 ---
@@ -55,4 +54,45 @@ e.g.​
 - An experienced EA just gets a sense that something is wrong!​
 
 ---
-​
+# Attendees
+There are three formats for this:​
+- Informal with EAs only​
+- More formal with key stakeholders and EAs​
+- Multiple stakeholder meetings followed by a joint playback​
+
+You can combine formats if it helps​
+- You want as rehearsal with EAs only​
+- You want to make sense of what the stakeholders said (e.g. create the stakeholder playback)​
+
+5 to 8 people is an ideal size for the meeting​
+
+Meetings can be fully remote​
+
+---
+# The Invitation
+
+---
+# Introduction
+
+---
+# Problem
+
+---
+# Success
+
+---
+# Route to Value
+
+---
+# Stakeholders
+
+---
+# Decisions
+
+---
+# Template
+
+---
+# Example
+
+---
