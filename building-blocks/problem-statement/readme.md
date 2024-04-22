@@ -10,6 +10,7 @@ There are four steps in the workshop:
   - will key business stakeholders recognise the problem
   - what makes it important
   - why now
+  - why are enterpriser architects necessary
 - description of how we know when problem is solved
   - what is the maximum that should be paid to solve this problem
   - what does success look like
