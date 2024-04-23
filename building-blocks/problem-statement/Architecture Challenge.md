@@ -1,5 +1,5 @@
 # Architecture Challenge Statement Development​
-## Alan Inglis - Open Archypelago
+### Alan Inglis - Open Archypelago
 This project is licensed under the GPL-3.0 License - see the [LICENSE.md](https://github.com/Open-Archypelago/Archypelago/blob/main/LICENSE) file for details
 
 ---
@@ -20,13 +20,13 @@ For enterprise architects (EAs) to add value the problem should be a mess or wic
 
 ---
 # Contents
-## Workshop Set Up
+### Workshop Set Up
 1. Pre-condition
 2. Attendees
 3. Invitation
 
-## Workshop Agenda
-1. The concern
+### Workshop Agenda
+1. The challenge
 1. Problem identification
 1. Break​
 1. Defining success
@@ -36,7 +36,7 @@ For enterprise architects (EAs) to add value the problem should be a mess or wic
 1. Key stakeholders
 1. Decisions
 
-Total duration - 4 hours.
+### Total duration - 4 hours.
 
 ---
 # Precondition
@@ -61,21 +61,63 @@ There are three formats for this:​
 - Multiple stakeholder meetings followed by a joint playback​
 
 You can combine formats if it helps​
-- You want as rehearsal with EAs only​
+- You want a rehearsal with EAs only​
 - You want to make sense of what the stakeholders said (e.g. create the stakeholder playback)​
 
 5 to 8 people is an ideal size for the meeting​
+
+Give attendees plenty of notice of the meeting+
 
 Meetings can be fully remote​
 
 ---
 # The Invitation
 
----
-# Introduction
+> Hi AP
+> 
+> As I am sure you are aware we have major challenges with providing insights to leaders within the business.
+>
+> We are running a workshop to develop a strong problem statement and work out how to kick off an initiative to improve the situation.
+> You will see an inviation to a video call in your inbox soon.
+>
+> I am looking forward to your valuable contribution.
+>
+> 
+> Best wishes
+>
+> JJ - Head of Enterprise Architecture
 
 ---
+# The Workshop
+
+---
+# Introduction
+### Purpose: explain the purpose of the workshop
+### Duration: 15 minutes
+
+1. Introduction
+> We are here to discuss [the challenge]
+> 
+> The purpose of this workshop is to 
+> 
+> - Clearly define the problem​
+> - Understand what successful resolution looks like​
+> - Identify the key stakeholders who must commit to delivering success​
+> - Determine the of enterprise architecture
+
+2. Quick personal introductions if everyone does not know each other
+3. The challenge
+> [attendee] will now set the scene for the workshop by briefly describing the challenge
+>
+> The challenge that we see is [challenge description]
+>
+> We don't have strong evidence but the impact that we see anecdotally is [examples]
+ 
+---
 # Problem
+### Purpose: create a description of the business problem
+### Duration: 1 hour
+
 1. Ask the participants to write down 2-3 bullet points that describe their perspective on the challenge
    
     - Write the notes individually without discussion and without showing them
@@ -100,6 +142,10 @@ Meetings can be fully remote​
     - Who is impacted negatively by the problem?
     - Who benefits from the problem?
     - Why is is important now?
+    - How can enterprise architects help?
+
+Now it's time to take a short break!
+
 ---
 # Success
 
