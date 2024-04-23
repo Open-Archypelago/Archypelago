@@ -24,6 +24,8 @@ For enterprise architects (EAs) to add value the problem should be a mess or wic
 1. Pre-condition
 2. Attendees
 3. Invitation
+4. Workshop roles
+5. Ground rules
 
 ### Workshop Agenda
 1. The challenge
@@ -36,7 +38,7 @@ For enterprise architects (EAs) to add value the problem should be a mess or wic
 1. Key stakeholders
 1. Decisions
 
-### Total duration - 4 hours.
+### Total duration - 4 - 6 hours
 
 ---
 # Precondition
@@ -88,6 +90,29 @@ Meetings can be fully remote​
 > JJ - Head of Enterprise Architecture
 
 ---
+# Roles
+The workshop will require these roles to be successful:
+
+- Facilitator: takes the attendees through the workshop structure, adapting it as necessary, owns the schedule
+- Challenge owner: presents the challenge, makes decisions when asked to do so by the Facilitator, maybe a proxy for a key stakeholder
+- Scribe: makes notes when asked to do so by the facilitator
+- Timekeeper: keeps time when asked to do so by the facilitator
+
+# Ground rules
+1. The Facilitator is in charge
+2. Challenge owner makes decisions
+3. No distractions from phones or emails or chat
+
+    - switch off notifications
+    - we will have breaks
+  
+1. Don't worry about children, pets, partners, deliveries, builders, etc
+
+    - they will interrupt and distract, it is OK!
+    - this is normal!
+    - sometimes they help with the creativity...
+
+---
 # The Workshop
 
 ---
@@ -106,8 +131,12 @@ Meetings can be fully remote​
 > - Determine the of enterprise architecture
 
 2. Quick personal introductions if everyone does not know each other
-3. The challenge
-> [attendee] will now set the scene for the workshop by briefly describing the challenge
+
+- name
+- 2 words describing what you do
+   
+4. The challenge
+> [challenge owner] will now set the scene for the workshop by briefly describing the challenge
 >
 > The challenge that we see is [challenge description]
 >
@@ -142,21 +171,31 @@ Meetings can be fully remote​
     - Who is impacted negatively by the problem?
     - Who benefits from the problem?
     - Why is is important now?
+    - What important things don't we know?
     - How can enterprise architects help?
 
 Now it's time to take a short break!
 
 ---
 # Success
+### Purpose: 
+### Duration: 45 minutes
+
 
 ---
 # Route to Value
+### Purpose: 
+### Duration: 1 hour
 
 ---
 # Stakeholders
+### Purpose: 
+### Duration: 45 minutes
 
 ---
 # Decisions
+### Purpose: 
+### Duration: 10 minutes
 
 ---
 # Template
