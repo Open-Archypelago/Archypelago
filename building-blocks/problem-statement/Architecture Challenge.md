@@ -38,7 +38,7 @@ For enterprise architects (EAs) to add value the problem should be a mess or wic
 1. Key stakeholders
 1. Decisions
 
-### Total duration - 4 - 6 hours
+### Total duration: 4 - 6 hours
 
 ---
 # Precondition
@@ -161,7 +161,7 @@ The workshop will require these roles to be successful:
 
     - How does this damage the business?​
     - Will key business stakeholders recognise the problem?
-    - What makes it important​ to the business stakeholders?
+    - What makes it **significant**​ to the business stakeholders?
     - What makes it important to do something now?​
     - What value will enterprise architects bring to the challenge?
 
@@ -178,9 +178,45 @@ Now it's time to take a short break!
 
 ---
 # Success
-### Purpose: 
+### Purpose: create an ambitious description of what it will like when we have solved the problem
 ### Duration: 45 minutes
 
+1. Ask the participants to write down 2-3 bullet points that describe what is will be like when the problem has been **fully** solved
+   
+    - Write the notes individually without discussion and without showing them
+    - This should be idealistic, not realistic or pragmatic (we will add that later)
+
+1. All participants show their notes at the same time
+2. The facilitator talks through each note in turn
+3. The facilitator creates a summary note that captures the agreement and divergence of the team's contributions
+4. The facilitator asks for any further thoughts from the team and adds to the summary if necessary
+5. The facilitator then leads an analysis of the summary to firm up what an idealistic and ambitious view of success looks like and resolve any disagreements.
+6. The next step is to make this **realistic**. The following questions can be used as a start point:
+
+    - What is the maximum that should be paid to solve this problem​?
+    - What are the major steps required to deliver the ideal​?
+    - Can these be delivered?
+    - Can the ideal be delivered in phases?
+    - Is there a point before we get to the ideal that is "good enough"?
+    - What are the big risks, issues, blockers, concerns, constraints​ that may stop us achieving the ideal?
+    - Are any critical details that could derail us​
+    - Is it still **significant** and **ambitious**?​
+
+6. Now we want ot mnake it **measureable** and **time-bound**. The following questions can be used to help:
+    
+    - How do we measure it​?
+    - When must success be delivered​?
+    - Is it still **realistic**, **significant** and **ambitious**?​
+
+1. We now have a view of success, a target state that is
+
+    **S**ignificant  
+    **M**easureable  
+    **A**mbitious  
+    **R**ealistic  
+    **T**imebound  
+
+Now it's time to take another short break!
 
 ---
 # Route to Value
