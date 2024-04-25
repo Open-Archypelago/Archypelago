@@ -15,8 +15,28 @@ At the end of this workshop, we should have​:
 
 For enterprise architects (EAs) to add value the problem should be a mess or wicked or both:​
 
-- Messy – has high process, data or technology complexity​
-- Wicked – poorly understood, constantly changing problem with complex interdependencies, often social / people complexity​
+- Messy
+    – has high process, data or technology complexity
+    - problem space is reasonably stable or changes in a predictable way
+    - target state can be defined with a reasonable level of confidence
+    - Enterprise Architects can:
+        - make sense of the complexity
+        - help define a target state
+        - help define a roadmap to deliver the target
+        - help define an incremental approach to benefits delivery
+    - EA engagement is likely to be front loaded focused on defining current state, target state and the roadmap followed by a supporting role to help maintain the overall integrity of the approach as the delivery progresses
+      
+- Wicked
+    – poorly understood
+    - constantly changing problem with complex interdependencies
+    - often has social / people complexity​
+    - significant parts of the target state cannot be defined with confidence
+    - Enterprise Architects can:
+        - make sense of the complexity
+        - identify areas of uncertainty
+        - help define incremental and experimental target states
+        - help define an incremental approach to learning and benefits delivery
+     - EA engagement is likely to be continual during the programme
 
 ---
 # Contents
@@ -179,7 +199,7 @@ Now it's time to take a short break!
 ---
 # Success
 ### Purpose: create an ambitious description of what it will like when we have solved the problem
-### Duration: 45 minutes
+### Duration: 1 hour
 
 1. Ask the participants to write down 2-3 bullet points that describe what is will be like when the problem has been **fully** solved
    
