@@ -231,7 +231,16 @@ Now it's time to take another short break!
 ### Purpose: 
 ### Duration: 45 minutes
 
+1. Ask the participants to write down about 10 bullet points that describe how success can be delivered
+   
+    - Write the notes individually without discussion and without showing them
+    - This should be idealistic, not realistic or pragmatic (we will add that later)
 
+1. All participants show their notes at the same time
+2. The facilitator talks through each note in turn
+3. The facilitator creates a summary note that captures the agreement and divergence of the team's contributions
+4. The facilitator asks for any further thoughts from the team and adds to the summary if necessary
+5. The facilitator then leads an analysis of the summary to firm up the route to value and resolve any disagreements.
 1. The next step is to make sure that we being **realistic**. The following questions can be used as a start point:
 
     - What is the maximum that should be paid to solve this problem​?
