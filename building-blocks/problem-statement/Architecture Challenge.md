@@ -199,7 +199,7 @@ Now it's time to take a short break!
 ---
 # Success
 ### Purpose: create an ambitious description of what it will like when we have solved the problem
-### Duration: 1 hour
+### Duration: 45 minutes
 
 1. Ask the participants to write down 2-3 bullet points that describe what is will be like when the problem has been **fully** solved
    
@@ -210,8 +210,29 @@ Now it's time to take a short break!
 2. The facilitator talks through each note in turn
 3. The facilitator creates a summary note that captures the agreement and divergence of the team's contributions
 4. The facilitator asks for any further thoughts from the team and adds to the summary if necessary
-5. The facilitator then leads an analysis of the summary to firm up what an idealistic and ambitious view of success looks like and resolve any disagreements.
-6. The next step is to make this **realistic**. The following questions can be used as a start point:
+5. The facilitator then leads an analysis of the summary to firm up what an **ambitious** view of success looks like and resolve any disagreements.
+6. The next step is to make sure that we know when we have achieved success **measureable**. The following questions can be used as a start point:
+
+    - What objective measures can we use to confirm that we have achieved success?
+    - What measures can we use to help us understand that we are on trackj to deliver success
+    - How does this change our definition of success?
+    - Is it still **significant** and **ambitious**?​
+
+1. We now have a view of success, a target state that is
+
+    **S**ignificant  
+    **M**easureable  
+    **A**mbitious  
+
+Now it's time to take another short break!
+
+---
+# Route to Value
+### Purpose: 
+### Duration: 1 hour
+
+
+6. The next step is to make sure that we being **realistic**. The following questions can be used as a start point:
 
     - What is the maximum that should be paid to solve this problem​?
     - What are the major steps required to deliver the ideal​?
@@ -222,11 +243,7 @@ Now it's time to take a short break!
     - Are any critical details that could derail us​
     - Is it still **significant** and **ambitious**?​
 
-6. Now we want ot mnake it **measureable** and **time-bound**. The following questions can be used to help:
-    
-    - How do we measure it​?
-    - When must success be delivered​?
-    - Is it still **realistic**, **significant** and **ambitious**?​
+
 
 1. We now have a view of success, a target state that is
 
@@ -238,10 +255,6 @@ Now it's time to take a short break!
 
 Now it's time to take another short break!
 
----
-# Route to Value
-### Purpose: 
-### Duration: 1 hour
 
 ---
 # Stakeholders
