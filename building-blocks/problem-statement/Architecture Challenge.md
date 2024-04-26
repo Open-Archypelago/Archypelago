@@ -229,10 +229,10 @@ Now it's time to take another short break!
 ---
 # Route to Value
 ### Purpose: 
-### Duration: 1 hour
+### Duration: 45 minutes
 
 
-6. The next step is to make sure that we being **realistic**. The following questions can be used as a start point:
+1. The next step is to make sure that we being **realistic**. The following questions can be used as a start point:
 
     - What is the maximum that should be paid to solve this problem​?
     - What are the major steps required to deliver the ideal​?
@@ -240,10 +240,8 @@ Now it's time to take another short break!
     - Can the ideal be delivered in phases?
     - Is there a point before we get to the ideal that is "good enough"?
     - What are the big risks, issues, blockers, concerns, constraints​ that may stop us achieving the ideal?
-    - Are any critical details that could derail us​
+    - Are any critical details that could derail us​?
     - Is it still **significant** and **ambitious**?​
-
-
 
 1. We now have a view of success, a target state that is
 
@@ -253,18 +251,32 @@ Now it's time to take another short break!
     **R**ealistic  
     **T**imebound  
 
-Now it's time to take another short break!
-
+Now we should have another short break!
 
 ---
 # Stakeholders
 ### Purpose: 
 ### Duration: 45 minutes
 
+
+who pays​
+who cares​
+who can cause problems​
+who needs to support​
+who do we need to persuade to back us​
+
+
 ---
 # Decisions
 ### Purpose: 
 ### Duration: 10 minutes
+
+
+go / no go - should we look for solutions?​
+who will plan next steps and when​
+is there a role for enterprise architects
+
+
 
 ---
 # Template
