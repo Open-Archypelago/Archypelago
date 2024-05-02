@@ -154,14 +154,14 @@ The workshop will require these roles to be successful -
 
 1. Introduction
 
-> We are here to discuss [the challenge]
+> *We are here to discuss [the challenge]*
 >
-> The purpose of this workshop is to
+> *The purpose of this workshop is to*
 >
-> - Clearly define the problem​
-> - Understand what successful resolution looks like​
-> - Identify the key stakeholders who must commit to delivering success​
-> - Determine the of enterprise architecture
+> - *Clearly define the problem​*
+> - *Understand what successful resolution looks like​*
+> - *Identify the key stakeholders who must commit to delivering success​*
+> - *Determine the of enterprise architecture*
 
 2. Quick personal introductions if everyone does not know each other
 
@@ -170,11 +170,11 @@ The workshop will require these roles to be successful -
 
 4. The challenge
 
-> [challenge owner] will now set the scene for the workshop by briefly describing the challenge
+> *[challenge owner] will now set the scene for the workshop by briefly describing the challenge*
 >
-> The challenge that we see is [challenge description]
+> *The challenge that we see is [challenge description]*
 >
-> We don't have strong evidence but the impact that we see anecdotally is [examples]
+> *We don't have strong evidence but the impact that we see anecdotally is [examples]*
 
 ---
 
