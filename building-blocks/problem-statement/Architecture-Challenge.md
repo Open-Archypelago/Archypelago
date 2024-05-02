@@ -1,37 +1,40 @@
+---
+
 # Architecture Challenge Statement Development​
 ### Alan Inglis - Open Archypelago
 This project is licensed under the GPL-3.0 License - see the [LICENSE.md](https://github.com/Open-Archypelago/Archypelago/blob/main/LICENSE) file for details
 
 ---
-# Introduction
+
+# Overview
 Before we start on any architecture work we need to know what business problem aim to solve​
 
-At the end of this workshop, we should have​:
+At the end of this workshop, we should have​
 
 - Identified the problem​
 - Gained an understanding what successful resolution looks like​
 - Identified the key stakeholders who must commit to delivering success​
 - Determined if there is potential enterprise architecture to do​
 
-For enterprise architects (EAs) to add value the problem should be a mess or wicked or both:​
+For enterprise architects (EAs) to add value the problem should be a mess or wicked or both
 
 - Messy
     – has high process, data or technology complexity
     - problem space is reasonably stable or changes in a predictable way
     - target state can be defined with a reasonable level of confidence
-    - Enterprise Architects can:
+    - Enterprise Architects can
         - make sense of the complexity
         - help define a target state
         - help define a roadmap to deliver the target
         - help define an incremental approach to benefits delivery
     - EA engagement is likely to be front loaded focused on defining current state, target state and the roadmap followed by a supporting role to help maintain the overall integrity of the approach as the delivery progresses
-      
+
 - Wicked
     – poorly understood
     - constantly changing problem with complex interdependencies
     - often has social / people complexity​
     - significant parts of the target state cannot be defined with confidence
-    - Enterprise Architects can:
+    - Enterprise Architects can
         - make sense of the complexity
         - identify areas of uncertainty
         - help define incremental and experimental target states
@@ -39,6 +42,7 @@ For enterprise architects (EAs) to add value the problem should be a mess or wic
      - EA engagement is likely to be continual during the programme
 
 ---
+
 # Contents
 ### Workshop Set Up
 1. Pre-condition
@@ -58,9 +62,10 @@ For enterprise architects (EAs) to add value the problem should be a mess or wic
 1. Key stakeholders
 1. Decisions
 
-### Total duration: 4 - 6 hours
+### Total duration - 4 to 6 hours
 
 ---
+
 # Precondition
 A concern of potentially enterprise wide significance has been identified by an EA​
 
@@ -76,8 +81,9 @@ e.g.​
 - An experienced EA just gets a sense that something is wrong!​
 
 ---
+
 # Attendees
-There are three formats for this:​
+There are three formats for this -
 - Informal with EAs only​
 - More formal with key stakeholders and EAs​
 - Multiple stakeholder meetings followed by a joint playback​
@@ -88,35 +94,39 @@ You can combine formats if it helps​
 
 5 to 8 people is an ideal size for the meeting​
 
-Give attendees plenty of notice of the meeting+
+Give attendees plenty of notice of the meeting
 
 Meetings can be fully remote​
 
 ---
+
 # The Invitation
 
-> Hi AP
-> 
-> As I am sure you are aware we have major challenges with providing insights to leaders within the business.
+
+> *Hi AP*
 >
-> We are running a workshop to develop a strong problem statement and work out how to kick off an initiative to improve the situation.
-> You will see an inviation to a video call in your inbox soon.
+> *As I am sure you are aware we have major challenges with providing insights to leaders within the business.*
 >
-> I am looking forward to your valuable contribution.
+> *We are running a workshop to develop a strong problem statement and work out how to kick off an initiative to improve the situation.*
+> *You will see an invitation to a video call in your inbox soon.*
 >
-> 
-> Best wishes
+> *I am looking forward to your valuable contribution.*
 >
-> JJ - Head of Enterprise Architecture
+>
+> *Best wishes*
+>
+> *JJ - Head of Enterprise Architecture*
+
 
 ---
-# Roles
-The workshop will require these roles to be successful:
 
-- Facilitator: takes the attendees through the workshop structure, adapting it as necessary, owns the schedule
-- Challenge owner: presents the challenge, makes decisions when asked to do so by the Facilitator, maybe a proxy for a key stakeholder
-- Scribe: makes notes when asked to do so by the facilitator
-- Timekeeper: keeps time when asked to do so by the facilitator
+# Roles
+The workshop will require these roles to be successful -
+
+- Facilitator - takes the attendees through the workshop structure, adapting it as necessary, owns the schedule
+- Challenge owner - presents the challenge, makes decisions when asked to do so by the Facilitator, maybe a proxy for a key stakeholder
+- Scribe - makes notes when asked to do so by the facilitator
+- Timekeeper - keeps time when asked to do so by the facilitator
 
 # Ground rules
 1. The Facilitator is in charge
@@ -125,7 +135,7 @@ The workshop will require these roles to be successful:
 
     - switch off notifications
     - we will have breaks
-  
+
 1. Don't worry about children, pets, partners, deliveries, builders, etc
 
     - they will interrupt and distract, it is OK!
@@ -133,18 +143,21 @@ The workshop will require these roles to be successful:
     - sometimes they help with the creativity...
 
 ---
+
 # The Workshop
 
 ---
+
 # Introduction
-### Purpose: explain the purpose of the workshop
-### Duration: 15 minutes
+### Purpose - explain the purpose of the workshop
+### Duration - 15 minutes
 
 1. Introduction
+
 > We are here to discuss [the challenge]
-> 
-> The purpose of this workshop is to 
-> 
+>
+> The purpose of this workshop is to
+>
 > - Clearly define the problem​
 > - Understand what successful resolution looks like​
 > - Identify the key stakeholders who must commit to delivering success​
@@ -152,32 +165,35 @@ The workshop will require these roles to be successful:
 
 2. Quick personal introductions if everyone does not know each other
 
-- name
-- 2 words describing what you do
-   
+    - name
+    - 2 words describing what you do
+
 4. The challenge
+
 > [challenge owner] will now set the scene for the workshop by briefly describing the challenge
 >
 > The challenge that we see is [challenge description]
 >
 > We don't have strong evidence but the impact that we see anecdotally is [examples]
- 
+
 ---
+
 # Problem
-### Purpose: create a description of the business problem
-### Duration: 1 hour
+### Purpose - create a description of the business problem
+### Duration - 1 hour
 
 1. Ask the participants to write down 2-3 bullet points that describe their perspective on the challenge
-   
+
     - Write the notes individually without discussion and without showing them
     - What is the root cause?
     - Why is it important to address the challenge?
+    - Do not think about solutions
 
 1. All participants show their notes at the same time
 2. The facilitator talks through each note in turn
 3. The facilitator creates a summary note that captures the agreement and divergence of the team's contributions
 4. The facilitator asks for any further thoughts from the team and adds to the summary if necessary
-5. The facilitator then leads an analysis of the summary to firm up the problem description and resolve any disagreements. The following questions can be used as a start point:
+5. The facilitator then leads an analysis of the summary to firm up the problem description and resolve any disagreements. The following questions can be used as a start point -
 
     - How does this damage the business?​
     - Will key business stakeholders recognise the problem?
@@ -185,7 +201,7 @@ The workshop will require these roles to be successful:
     - What makes it important to do something now?​
     - What value will enterprise architects bring to the challenge?
 
-1. The facilitator summarises the discussion under the following headings:
+1. The facilitator summarises the discussion under the following headings -
 
     - Problem statement highlighting the negative impact on the business
     - Who is impacted negatively by the problem?
@@ -197,43 +213,47 @@ The workshop will require these roles to be successful:
 Now it's time to take a short break!
 
 ---
+
 # Success
-### Purpose: create an ambitious description of what it will like when we have solved the problem
-### Duration: 45 minutes
+### Purpose - create an ambitious description of what it will like when we have solved the problem
+### Duration - 45 minutes
 
 1. Ask the participants to write down 2-3 bullet points that describe what is will be like when the problem has been **fully** solved
-   
+
     - Write the notes individually without discussion and without showing them
     - This should be idealistic, not realistic or pragmatic (we will add that later)
+    - Do not think about solutions
 
 1. All participants show their notes at the same time
 2. The facilitator talks through each note in turn
 3. The facilitator creates a summary note that captures the agreement and divergence of the team's contributions
 4. The facilitator asks for any further thoughts from the team and adds to the summary if necessary
 5. The facilitator then leads an analysis of the summary to firm up what an **ambitious** view of success looks like and resolve any disagreements.
-6. The next step is to make sure that we know when we have achieved success **measureable**. The following questions can be used as a start point:
+6. The next step is to make sure that we know when we have achieved success, is it **measureable**? The following questions can be used as a start point -
 
     - What objective measures can we use to confirm that we have achieved success?
-    - What measures can we use to help us understand that we are on trackj to deliver success
+    - What measures can we use to help us understand that we are on track to deliver success
     - How does this change our definition of success?
     - Is it still **significant** and **ambitious**?​
 
 1. We now have a view of success, a target state that is
 
-    **S**ignificant  
-    **M**easureable  
-    **A**mbitious  
+    **S**ignificant
+    **M**easureable
+    **A**mbitious
 
 Now it's time to take another short break!
 
 ---
+
 # Route to Value
-### Purpose: 
-### Duration: 45 minutes
+### Purpose - we will establish a realistic way forward
+### Duration - 45 minutes
 
 1. Ask the participants to write down about 10 bullet points that describe how success can be delivered
-   
+
     - Write the notes individually without discussion and without showing them
+    - If you have any solution options, list them now, we are capturing them to sho wthat there are possible ways forward (we will not discuss them in detail in this workshop)
     - This should be idealistic, not realistic or pragmatic (we will add that later)
 
 1. All participants show their notes at the same time
@@ -241,7 +261,7 @@ Now it's time to take another short break!
 3. The facilitator creates a summary note that captures the agreement and divergence of the team's contributions
 4. The facilitator asks for any further thoughts from the team and adds to the summary if necessary
 5. The facilitator then leads an analysis of the summary to firm up the route to value and resolve any disagreements.
-1. The next step is to make sure that we being **realistic**. The following questions can be used as a start point:
+1. The next step is to adjust our route to make sure that we being **realistic**. The following questions can be used as a start point
 
     - What is the maximum that should be paid to solve this problem​?
     - What are the major steps required to deliver the ideal​?
@@ -250,22 +270,24 @@ Now it's time to take another short break!
     - Is there a point before we get to the ideal that is "good enough"?
     - What are the big risks, issues, blockers, concerns, constraints​ that may stop us achieving the ideal?
     - Are any critical details that could derail us​?
-    - Is it still **significant** and **ambitious**?​
+    - How does this change our definition of success?
+    - Is it still **significant**, **measureable** and **ambitious**?​
 
 1. We now have a view of success, a target state that is
 
-    **S**ignificant  
-    **M**easureable  
-    **A**mbitious  
-    **R**ealistic  
-    **T**imebound  
+    **S**ignificant
+    **M**easureable
+    **A**mbitious
+    **R**ealistic
+    **T**imebound
 
 Now we should have another short break!
 
 ---
+
 # Stakeholders
-### Purpose: 
-### Duration: 45 minutes
+### Purpose -
+### Duration - 45 minutes
 
 
 who pays​
@@ -276,9 +298,10 @@ who do we need to persuade to back us​
 
 
 ---
+
 # Decisions
-### Purpose: 
-### Duration: 10 minutes
+### Purpose -
+### Duration - 10 minutes
 
 
 go / no go - should we look for solutions?​
@@ -288,9 +311,11 @@ is there a role for enterprise architects
 
 
 ---
-# Template
+
+# Architecture Challenge Canvas
 
 ---
+
 # Example
 
 ---
