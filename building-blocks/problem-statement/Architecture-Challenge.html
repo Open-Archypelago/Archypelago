@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title>Architecture-Challenge</title>
+  <style type="text/css">
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" type="text/css" media="screen, projection, print"
+    href="https://www.w3.org/Talks/Tools/Slidy2/styles/slidy.css" />
+  <script src="https://www.w3.org/Talks/Tools/Slidy2/scripts/slidy.js"
+    charset="utf-8" type="text/javascript"></script>
+</head>
+<body>
+<div id="architecture-challenge-statement-development"
+class="slide section level1">
+<h1>Architecture Challenge Statement Development​</h1>
+<h3 id="alan-inglis---open-archypelago">Alan Inglis - Open
+Archypelago</h3>
+<p>This project is licensed under the GPL-3.0 License - see the <a
+href="https://github.com/Open-Archypelago/Archypelago/blob/main/LICENSE">LICENSE.md</a>
+file for details</p>
+</div>
+<div id="overview" class="slide section level1">
+<h1>Overview</h1>
+<p>Before we start on any architecture work we need to know what
+business problem aim to solve​ and that we can add value</p>
+<p>At the end of this workshop, we should have​</p>
+<ul>
+<li>Identified the problem​</li>
+<li>Gained an understanding what successful resolution looks like​</li>
+<li>Identified the key stakeholders who must commit to delivering
+success​</li>
+<li>Determined if there is potential enterprise architecture to do​</li>
+</ul>
+</div>
+<div id="when-do-enterprise-architects-add-value"
+class="slide section level1">
+<h1>When do Enterprise Architects add value?</h1>
+<p>Enterprise architects (EAs) add value by</p>
+<ul>
+<li>making sense of complexity</li>
+<li>navigating through complexity</li>
+<li>helping to manage uncertainty</li>
+</ul>
+</div>
+<div id="messy-problems" class="slide section level1">
+<h1>Messy Problems</h1>
+<ul>
+<li>have high process, data or technology complexity</li>
+<li>problem space is reasonably stable or changes in a predictable
+way</li>
+<li>target state can be defined with a reasonable level of
+confidence</li>
+<li>Enterprise Architects can help
+<ul>
+<li>make sense of the complexity</li>
+<li>define a target state</li>
+<li>define a roadmap to deliver the target</li>
+<li>define an incremental approach to benefits delivery</li>
+</ul></li>
+</ul>
+<p>EA engagement is likely to be front loaded focused on defining
+current state, target state and the roadmap followed by a supporting
+role to help maintain the overall integrity of the approach in the
+delivery progresses</p>
+</div>
+<div id="wicked-problems" class="slide section level1">
+<h1>Wicked Problems</h1>
+<ul>
+<li>poorly understood</li>
+<li>constantly changing problem with complex interdependencies</li>
+<li>often have significant social / people complexity​</li>
+<li>large parts of the currrent and / or target state cannot be defined
+with confidence</li>
+<li>Enterprise Architects can help
+<ul>
+<li>make sense of the complexity</li>
+<li>identify areas of uncertainty</li>
+<li>define experiments and nudges to enable learning</li>
+<li>define an incremental approach to benefits delivery</li>
+</ul></li>
+</ul>
+<p>EA engagement is likely to be continual during the programme</p>
+</div>
+<div id="workshop-set-up" class="slide section level1">
+<h1>Workshop Set Up</h1>
+<ol style="list-style-type: decimal">
+<li>Pre-condition</li>
+<li>Attendees</li>
+<li>Invitation</li>
+<li>Workshop roles</li>
+<li>Ground rules</li>
+</ol>
+</div>
+<div id="precondition" class="slide section level1">
+<h1>Precondition</h1>
+<p>A concern of potentially enterprise wide significance has been
+identified by an EA​</p>
+<p>e.g.​</p>
+<ul>
+<li>A senior stakeholder says “take a look at this…”​</li>
+<li>An EA gets an idea at a conference​</li>
+<li>An EA hears a worrying statement in a meeting about…​
+<ul>
+<li>Project​</li>
+<li>Technical debt​</li>
+<li>Lack of collaboration​</li>
+<li>Siloes​</li>
+</ul></li>
+<li>An experienced EA just gets a sense that something is wrong!​</li>
+</ul>
+</div>
+<div id="workshop-formats" class="slide section level1">
+<h1>Workshop formats</h1>
+<p>There are three formats that we use</p>
+<ul>
+<li>Informal with EAs only​</li>
+<li>More formal with key stakeholders and EAs​</li>
+<li>Multiple stakeholder meetings followed by a joint playback​</li>
+</ul>
+</div>
+<div id="attendees" class="slide section level1">
+<h1>Attendees</h1>
+<p>You can combine formats if it helps​</p>
+<ul>
+<li>You want a rehearsal with EAs only​</li>
+<li>You want to make sense of what the stakeholders said (e.g. create
+the stakeholder playback)​</li>
+</ul>
+<p>5 to 8 people is an ideal size for the meeting​</p>
+<p>Give attendees plenty of notice of the meeting</p>
+<p>Meetings can be fully remote​</p>
+</div>
+<div id="the-invitation" class="slide section level1">
+<h1>The Invitation</h1>
+<blockquote>
+<p><em>Hi AP</em></p>
+<p><em>As I am sure you are aware we have major challenges with
+providing insights to leaders within the business.</em></p>
+<p><em>We are running a workshop to develop a strong problem statement
+and work out how to kick off an initiative to improve the
+situation.</em> <em>You will see an invitation to a video call in your
+inbox soon.</em></p>
+<p><em>I am looking forward to your valuable contribution.</em></p>
+<p><em>Best wishes</em></p>
+<p><em>JJ - Head of Enterprise Architecture</em></p>
+</blockquote>
+</div>
+<div id="roles" class="slide section level1">
+<h1>Roles</h1>
+<p>The workshop will require these roles to be successful -</p>
+<ul>
+<li>Facilitator - takes the attendees through the workshop structure,
+adapting it as necessary, owns the schedule</li>
+<li>Challenge owner - presents the challenge, makes decisions when asked
+to do so by the Facilitator, maybe a proxy for a key stakeholder</li>
+<li>Scribe - makes notes when asked to do so by the facilitator</li>
+<li>Timekeeper - keeps time when asked to do so by the facilitator</li>
+</ul>
+</div>
+<div id="ground-rules" class="slide section level1">
+<h1>Ground rules</h1>
+<ol style="list-style-type: decimal">
+<li>The Facilitator is in charge</li>
+<li>Challenge owner makes decisions</li>
+<li>No distractions from phones or emails or chat
+<ul>
+<li>switch off notifications</li>
+<li>we will have breaks</li>
+</ul></li>
+<li>Don’t worry about children, pets, partners, deliveries, builders,
+etc
+<ul>
+<li>they will interrupt and distract, it is OK!</li>
+<li>this is normal!</li>
+<li>sometimes they help with the creativity…</li>
+</ul></li>
+</ol>
+</div>
+<div id="workshop-agenda" class="slide section level1">
+<h1>Workshop Agenda</h1>
+<ol style="list-style-type: decimal">
+<li>The challenge (15 - 20 minutes)</li>
+<li>Problem identification (60 - 90 minutes)</li>
+<li>Defining success (45 - 60 minutes)</li>
+<li>Route to value (45 - 60 minutes)</li>
+<li>Key stakeholders (45 - 60 minutes)</li>
+<li>Decisions (10 - 20 minutes)</li>
+</ol>
+<h3 id="total-duration---4-to-6-hours-including-breaks">Total duration -
+4 to 6 hours (including breaks)</h3>
+</div>
+<div id="introduction" class="slide section level1">
+<h1>Introduction</h1>
+<h3 id="purpose---explain-the-purpose-of-the-workshop">Purpose - explain
+the purpose of the workshop</h3>
+<ol style="list-style-type: decimal">
+<li><p>Introduction</p>
+<ul>
+<li>We are here to discuss [the challenge]</li>
+<li>The purpose of this workshop is to
+<ul>
+<li>Clearly define the problem​</li>
+<li>Understand what successful resolution looks like​</li>
+<li>Identify the key stakeholders who must commit to delivering
+success​</li>
+<li>Determine the of enterprise architecture</li>
+</ul></li>
+</ul></li>
+<li><p>Quick personal introductions if everyone does not know each
+other</p>
+<ul>
+<li>name</li>
+<li>2 words describing what you do</li>
+</ul></li>
+<li><p>The challenge</p>
+<ul>
+<li>[challenge owner] will now set the scene for the workshop by briefly
+describing the challenge*</li>
+<li>The challenge that we see is [challenge description]*</li>
+<li>We don’t have strong evidence but the impact that we see anecdotally
+is [examples]*</li>
+</ul></li>
+</ol>
+</div>
+<div id="problem-identification" class="slide section level1">
+<h1>Problem Identification</h1>
+<ol style="list-style-type: decimal">
+<li><p>Ask the participants to write down 2-3 bullet points that
+describe their perspective on the challenge</p>
+<ul>
+<li>Write the notes individually without discussion and without showing
+them</li>
+<li>What is the root cause?</li>
+<li>Why is it important to address the challenge?</li>
+<li>Do not think about solutions</li>
+</ul></li>
+<li><p>All participants show their notes at the same time</p></li>
+<li><p>The facilitator talks through each note in turn</p></li>
+<li><p>The facilitator creates a summary note that captures the
+agreement and divergence of the team’s contributions</p></li>
+<li><p>The facilitator asks for any further thoughts from the team and
+adds to the summary if necessary</p></li>
+</ol>
+</div>
+<div id="problem-analysis" class="slide section level1">
+<h1>Problem Analysis</h1>
+<ol style="list-style-type: decimal">
+<li><p>The facilitator then leads an analysis of the summary to firm up
+the problem description and resolve any disagreements. The following
+questions can be used as a start point -</p>
+<ul>
+<li>How does this damage the business?​</li>
+<li>Will key business stakeholders recognise the problem?</li>
+<li>What makes it <strong>significant</strong>​ to the business
+stakeholders?</li>
+<li>What makes it important to do something now?​</li>
+<li>What value will enterprise architects bring to the challenge?</li>
+</ul></li>
+<li><p>The facilitator summarises the discussion under the following
+headings -</p>
+<ul>
+<li>Problem statement highlighting the negative impact on the
+business</li>
+<li>Who is impacted negatively by the problem?</li>
+<li>Who benefits from the problem?</li>
+<li>Why is is important now?</li>
+<li>What important things don’t we know?</li>
+<li>How can enterprise architects help?</li>
+</ul></li>
+</ol>
+<p>Now it’s time to take a short break!</p>
+</div>
+<div id="success-description" class="slide section level1">
+<h1>Success Description</h1>
+<ol style="list-style-type: decimal">
+<li><p>Ask the participants to write down 2-3 bullet points that
+describe what is will be like when the problem has been
+<strong>fully</strong> solved</p>
+<ul>
+<li>Write the notes individually without discussion and without showing
+them</li>
+<li>This should be idealistic, not realistic or pragmatic (we will add
+that later)</li>
+<li>Do not think about solutions</li>
+</ul></li>
+<li><p>All participants show their notes at the same time</p></li>
+<li><p>The facilitator talks through each note in turn</p></li>
+<li><p>The facilitator creates a summary note that captures the
+agreement and divergence of the team’s contributions</p></li>
+<li><p>The facilitator asks for any further thoughts from the team and
+adds to the summary if necessary</p></li>
+</ol>
+</div>
+<div id="success-analysis" class="slide section level1">
+<h1>Success Analysis</h1>
+<ol style="list-style-type: decimal">
+<li><p>The facilitator then leads an analysis of the summary to firm up
+what an <strong>ambitious</strong> view of success looks like and
+resolve any disagreements.</p></li>
+<li><p>The next step is to make sure that we know when we have achieved
+success, is it <strong>measureable</strong>? The following questions can
+be used as a start point -</p>
+<ul>
+<li>What objective measures can we use to confirm that we have achieved
+success?</li>
+<li>What measures can we use to help us understand that we are on track
+to deliver success</li>
+<li>How does this change our definition of success?</li>
+<li>Is it still <strong>significant</strong> and
+<strong>ambitious</strong>?​</li>
+</ul></li>
+<li><p>We now have a view of success, a target state that is</p>
+<p><strong>S</strong>ignificant <strong>M</strong>easureable
+<strong>A</strong>mbitious</p></li>
+</ol>
+<p>Now it’s time to take another short break!</p>
+</div>
+<div id="route-to-value-identification" class="slide section level1">
+<h1>Route to Value Identification</h1>
+<ol style="list-style-type: decimal">
+<li><p>Ask the participants to write down about 10 bullet points that
+describe how success can be delivered</p>
+<ul>
+<li>Write the notes individually without discussion and without showing
+them</li>
+<li>If you have any solution options, list them now, we are capturing
+them to sho wthat there are possible ways forward (we will not discuss
+them in detail in this workshop)</li>
+<li>This should be idealistic, not realistic or pragmatic (we will add
+that later)</li>
+</ul></li>
+<li><p>All participants show their notes at the same time</p></li>
+<li><p>The facilitator talks through each note in turn</p></li>
+<li><p>The facilitator creates a summary note that captures the
+agreement and divergence of the team’s contributions</p></li>
+<li><p>The facilitator asks for any further thoughts from the team and
+adds to the summary if necessary</p></li>
+</ol>
+</div>
+<div id="route-to-value-analysis" class="slide section level1">
+<h1>Route to Value Analysis</h1>
+<ol start="5" style="list-style-type: decimal">
+<li><p>The facilitator then leads an analysis of the summary to firm up
+the route to value and resolve any disagreements.</p></li>
+<li><p>The next step is to adjust our route to make sure that we being
+<strong>realistic</strong>. The following questions can be used as a
+start point</p>
+<ul>
+<li>What is the maximum that should be paid to solve this problem​?</li>
+<li>What are the major steps required to deliver the ideal​?</li>
+<li>Can these be delivered?</li>
+<li>Can the ideal be delivered in phases?</li>
+<li>Is there a point before we get to the ideal that is “good
+enough”?</li>
+<li>What are the big risks, issues, blockers, concerns, constraints​ that
+may stop us achieving the ideal?</li>
+<li>Are any critical details that could derail us​?</li>
+<li>How does this change our definition of success?</li>
+<li>Is it still <strong>significant</strong>,
+<strong>measureable</strong> and <strong>ambitious</strong>?​</li>
+</ul></li>
+<li><p>We now have a view of success, a target state that is</p>
+<p><strong>S</strong>ignificant <strong>M</strong>easureable
+<strong>A</strong>mbitious <strong>R</strong>ealistic
+<strong>T</strong>imebound</p></li>
+</ol>
+<p>Now we should have another short break!</p>
+</div>
+<div id="stakeholders" class="slide section level1">
+<h1>Stakeholders</h1>
+<p>who pays​ who cares​ who can cause problems​ who needs to support​ who do
+we need to persuade to back us​</p>
+</div>
+<div id="decisions" class="slide section level1">
+<h1>Decisions</h1>
+<p>go / no go - should we look for solutions?​ who will plan next steps
+and when​ is there a role for enterprise architects</p>
+</div>
+<div id="architecture-challenge-canvas" class="slide section level1">
+<h1>Architecture Challenge Canvas</h1>
+</div>
+<div id="example" class="slide section level1">
+<h1>Example</h1>
+</div>
+<div class="slide section level1">
+
+</div>
+</body>
+</html>

@@ -1,4 +1,3 @@
----
 
 # Architecture Challenge Statement Development​
 ### Alan Inglis - Open Archypelago
@@ -7,7 +6,7 @@ This project is licensed under the GPL-3.0 License - see the [LICENSE.md](https:
 ---
 
 # Overview
-Before we start on any architecture work we need to know what business problem aim to solve​
+Before we start on any architecture work we need to know what business problem aim to solve​ and that we can add value
 
 At the end of this workshop, we should have​
 
@@ -16,57 +15,61 @@ At the end of this workshop, we should have​
 - Identified the key stakeholders who must commit to delivering success​
 - Determined if there is potential enterprise architecture to do​
 
-For enterprise architects (EAs) to add value the problem should be a mess or wicked or both
+---
 
-- Messy
-    – has high process, data or technology complexity
-    - problem space is reasonably stable or changes in a predictable way
-    - target state can be defined with a reasonable level of confidence
-    - Enterprise Architects can
-        - make sense of the complexity
-        - help define a target state
-        - help define a roadmap to deliver the target
-        - help define an incremental approach to benefits delivery
-    - EA engagement is likely to be front loaded focused on defining current state, target state and the roadmap followed by a supporting role to help maintain the overall integrity of the approach as the delivery progresses
+# When do Enterprise Architects add value?
 
-- Wicked
-    – poorly understood
-    - constantly changing problem with complex interdependencies
-    - often has social / people complexity​
-    - significant parts of the target state cannot be defined with confidence
-    - Enterprise Architects can
-        - make sense of the complexity
-        - identify areas of uncertainty
-        - help define incremental and experimental target states
-        - help define an incremental approach to learning and benefits delivery
-     - EA engagement is likely to be continual during the programme
+Enterprise architects (EAs) add value by
+
+- making sense of complexity
+- navigating through complexity
+- helping to manage uncertainty
 
 ---
 
-# Contents
-### Workshop Set Up
+# Messy Problems
+
+- have high process, data or technology complexity
+- problem space is reasonably stable or changes in a predictable way
+- target state can be defined with a reasonable level of confidence
+- Enterprise Architects can help
+    - make sense of the complexity
+    - define a target state
+    - define a roadmap to deliver the target
+    - define an incremental approach to benefits delivery
+
+EA engagement is likely to be front loaded focused on defining current state, target state and the roadmap followed by a supporting role to help maintain the overall integrity of the approach in the delivery progresses
+
+---
+
+# Wicked Problems
+
+- poorly understood
+- constantly changing problem with complex interdependencies
+- often have significant social / people complexity​
+- large parts of the currrent and / or target state cannot be defined with confidence
+- Enterprise Architects can help
+    - make sense of the complexity
+    - identify areas of uncertainty
+    - define experiments and nudges to enable learning
+    - define an incremental approach to benefits delivery
+
+EA engagement is likely to be continual during the programme
+
+---
+
+# Workshop Set Up
+
 1. Pre-condition
 2. Attendees
 3. Invitation
 4. Workshop roles
 5. Ground rules
 
-### Workshop Agenda
-1. The challenge
-1. Problem identification
-1. Break​
-1. Defining success
-1. Break​
-1. Route to value
-1. Break​
-1. Key stakeholders
-1. Decisions
-
-### Total duration - 4 to 6 hours
-
 ---
 
 # Precondition
+
 A concern of potentially enterprise wide significance has been identified by an EA​
 
 e.g.​
@@ -82,13 +85,20 @@ e.g.​
 
 ---
 
-# Attendees
-There are three formats for this -
+# Workshop formats
+
+There are three formats that we use
+
 - Informal with EAs only​
 - More formal with key stakeholders and EAs​
 - Multiple stakeholder meetings followed by a joint playback​
 
+---
+
+# Attendees
+
 You can combine formats if it helps​
+
 - You want a rehearsal with EAs only​
 - You want to make sense of what the stakeholders said (e.g. create the stakeholder playback)​
 
@@ -128,40 +138,45 @@ The workshop will require these roles to be successful -
 - Scribe - makes notes when asked to do so by the facilitator
 - Timekeeper - keeps time when asked to do so by the facilitator
 
+---
+
 # Ground rules
+
 1. The Facilitator is in charge
 2. Challenge owner makes decisions
 3. No distractions from phones or emails or chat
-
     - switch off notifications
     - we will have breaks
-
 1. Don't worry about children, pets, partners, deliveries, builders, etc
-
     - they will interrupt and distract, it is OK!
     - this is normal!
     - sometimes they help with the creativity...
 
 ---
 
-# The Workshop
+# Workshop Agenda
+1. The challenge (15 - 20 minutes)
+1. Problem identification (60  - 90 minutes)
+1. Defining success (45 - 60 minutes)
+1. Route to value (45 - 60 minutes)
+1. Key stakeholders (45 - 60 minutes)
+1. Decisions (10 - 20 minutes)
+
+### Total duration - 4 to 6 hours (including breaks)
 
 ---
 
 # Introduction
 ### Purpose - explain the purpose of the workshop
-### Duration - 15 minutes
 
 1. Introduction
 
-> *We are here to discuss [the challenge]*
->
-> *The purpose of this workshop is to*
->
-> - *Clearly define the problem​*
-> - *Understand what successful resolution looks like​*
-> - *Identify the key stakeholders who must commit to delivering success​*
-> - *Determine the of enterprise architecture*
+    - We are here to discuss [the challenge]
+    - The purpose of this workshop is to
+      - Clearly define the problem​
+      - Understand what successful resolution looks like​
+      - Identify the key stakeholders who must commit to delivering success​
+      - Determine the of enterprise architecture
 
 2. Quick personal introductions if everyone does not know each other
 
@@ -170,17 +185,13 @@ The workshop will require these roles to be successful -
 
 4. The challenge
 
-> *[challenge owner] will now set the scene for the workshop by briefly describing the challenge*
->
-> *The challenge that we see is [challenge description]*
->
-> *We don't have strong evidence but the impact that we see anecdotally is [examples]*
+    - [challenge owner] will now set the scene for the workshop by briefly describing the challenge*
+    - The challenge that we see is [challenge description]*
+    - We don't have strong evidence but the impact that we see anecdotally is [examples]*
 
 ---
 
-# Problem
-### Purpose - create a description of the business problem
-### Duration - 1 hour
+# Problem Identification
 
 1. Ask the participants to write down 2-3 bullet points that describe their perspective on the challenge
 
@@ -193,7 +204,12 @@ The workshop will require these roles to be successful -
 2. The facilitator talks through each note in turn
 3. The facilitator creates a summary note that captures the agreement and divergence of the team's contributions
 4. The facilitator asks for any further thoughts from the team and adds to the summary if necessary
-5. The facilitator then leads an analysis of the summary to firm up the problem description and resolve any disagreements. The following questions can be used as a start point -
+
+---
+
+# Problem Analysis
+
+1. The facilitator then leads an analysis of the summary to firm up the problem description and resolve any disagreements. The following questions can be used as a start point -
 
     - How does this damage the business?​
     - Will key business stakeholders recognise the problem?
@@ -214,9 +230,7 @@ Now it's time to take a short break!
 
 ---
 
-# Success
-### Purpose - create an ambitious description of what it will like when we have solved the problem
-### Duration - 45 minutes
+# Success Description
 
 1. Ask the participants to write down 2-3 bullet points that describe what is will be like when the problem has been **fully** solved
 
@@ -228,7 +242,12 @@ Now it's time to take a short break!
 2. The facilitator talks through each note in turn
 3. The facilitator creates a summary note that captures the agreement and divergence of the team's contributions
 4. The facilitator asks for any further thoughts from the team and adds to the summary if necessary
-5. The facilitator then leads an analysis of the summary to firm up what an **ambitious** view of success looks like and resolve any disagreements.
+
+---
+
+# Success Analysis
+
+1. The facilitator then leads an analysis of the summary to firm up what an **ambitious** view of success looks like and resolve any disagreements.
 6. The next step is to make sure that we know when we have achieved success, is it **measureable**? The following questions can be used as a start point -
 
     - What objective measures can we use to confirm that we have achieved success?
@@ -246,9 +265,7 @@ Now it's time to take another short break!
 
 ---
 
-# Route to Value
-### Purpose - we will establish a realistic way forward
-### Duration - 45 minutes
+# Route to Value Identification
 
 1. Ask the participants to write down about 10 bullet points that describe how success can be delivered
 
@@ -260,6 +277,11 @@ Now it's time to take another short break!
 2. The facilitator talks through each note in turn
 3. The facilitator creates a summary note that captures the agreement and divergence of the team's contributions
 4. The facilitator asks for any further thoughts from the team and adds to the summary if necessary
+
+---
+
+# Route to Value Analysis
+
 5. The facilitator then leads an analysis of the summary to firm up the route to value and resolve any disagreements.
 1. The next step is to adjust our route to make sure that we being **realistic**. The following questions can be used as a start point
 
@@ -286,9 +308,6 @@ Now we should have another short break!
 ---
 
 # Stakeholders
-### Purpose -
-### Duration - 45 minutes
-
 
 who pays​
 who cares​
@@ -300,9 +319,6 @@ who do we need to persuade to back us​
 ---
 
 # Decisions
-### Purpose -
-### Duration - 10 minutes
-
 
 go / no go - should we look for solutions?​
 who will plan next steps and when​
