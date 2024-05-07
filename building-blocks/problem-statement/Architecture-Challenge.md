@@ -74,6 +74,7 @@ A concern of potentially enterprise wide significance has been identified by an 
 
 e.g.​
 
+- A formal request for architecure work is made
 - A senior stakeholder says "take a look at this..."​
 - An EA gets an idea at a conference​
 - An EA hears a worrying statement in a meeting about...​
@@ -92,6 +93,9 @@ There are three formats that we use
 - Informal with EAs only​
 - More formal with key stakeholders and EAs​
 - Multiple stakeholder meetings followed by a joint playback​
+
+- the workshop may be held as one intensive session or a series of shorter sessions over several days
+- the facilitator shoudl consider giving the participants breaks after each section
 
 ---
 
@@ -156,9 +160,9 @@ The workshop will require these roles to be successful -
 
 # Workshop Agenda
 1. The challenge (15 - 20 minutes)
-1. Problem identification (60  - 90 minutes)
-1. Defining success (45 - 60 minutes)
-1. Route to value (45 - 60 minutes)
+1. Problem identification and analysis (60  - 90 minutes)
+1. Success description and analysis (45 - 60 minutes)
+1. Route to value identification and analysis (45 - 60 minutes)
 1. Key stakeholders (45 - 60 minutes)
 1. Decisions (10 - 20 minutes)
 
@@ -217,17 +221,6 @@ The workshop will require these roles to be successful -
     - What makes it important to do something now?​
     - What value will enterprise architects bring to the challenge?
 
-1. The facilitator summarises the discussion under the following headings -
-
-    - Problem statement highlighting the negative impact on the business
-    - Who is impacted negatively by the problem?
-    - Who benefits from the problem?
-    - Why is is important now?
-    - What important things don't we know?
-    - How can enterprise architects help?
-
-Now it's time to take a short break!
-
 ---
 
 # Success Description
@@ -248,20 +241,18 @@ Now it's time to take a short break!
 # Success Analysis
 
 1. The facilitator then leads an analysis of the summary to firm up what an **ambitious** view of success looks like and resolve any disagreements.
-6. The next step is to make sure that we know when we have achieved success, is it **measureable**? The following questions can be used as a start point -
+1. The next step is to make sure that we know when we have achieved success, is it **measureable**? The following questions can be used as a start point -
 
     - What objective measures can we use to confirm that we have achieved success?
     - What measures can we use to help us understand that we are on track to deliver success
     - How does this change our definition of success?
-    - Is it still **significant** and **ambitious**?​
+    - Is it **significant** and **ambitious**?​
 
 1. We now have a view of success, a target state that is
 
     **S**ignificant
     **M**easureable
     **A**mbitious
-
-Now it's time to take another short break!
 
 ---
 
@@ -277,12 +268,12 @@ Now it's time to take another short break!
 2. The facilitator talks through each note in turn
 3. The facilitator creates a summary note that captures the agreement and divergence of the team's contributions
 4. The facilitator asks for any further thoughts from the team and adds to the summary if necessary
+1. The facilitator then leads an analysis of the summary to firm up the route to value and resolve any disagreements.
 
 ---
 
 # Route to Value Analysis
 
-5. The facilitator then leads an analysis of the summary to firm up the route to value and resolve any disagreements.
 1. The next step is to adjust our route to make sure that we being **realistic**. The following questions can be used as a start point
 
     - What is the maximum that should be paid to solve this problem​?
@@ -293,7 +284,7 @@ Now it's time to take another short break!
     - What are the big risks, issues, blockers, concerns, constraints​ that may stop us achieving the ideal?
     - Are any critical details that could derail us​?
     - How does this change our definition of success?
-    - Is it still **significant**, **measureable** and **ambitious**?​
+    - Is it **significant**, **measureable** and **ambitious**?​
 
 1. We now have a view of success, a target state that is
 
@@ -303,18 +294,33 @@ Now it's time to take another short break!
     **R**ealistic
     **T**imebound
 
-Now we should have another short break!
+---
+
+# Stakeholder identification
+
+1. identify key stakeholders
+    - who pays​?
+    - who cares?​
+    - whose job or personal life will be impacted?
+    - are there any regulatory considerations?
+    - who can cause problems​?
+    - who needs to support​?
+    - who do we need to persuade to back us​?
+2. which of these are most important now?
+3. whose support do we need now?
 
 ---
 
-# Stakeholders
+# Stakeholder motivations
 
-who pays​
-who cares​
-who can cause problems​
-who needs to support​
-who do we need to persuade to back us​
-
+1. what will motivate them to resist this proposal?
+2. what will motivate them to support it?
+3. what evidence do we have for these motivations?
+4. what message do we need to get to these stakeholders to achieve support?
+5. how do we make it easy for them to support us?
+5. how should the messages be delivered?
+6. when should the messages be delivered?
+7. how will we know if we have been successful in getting the support we need?
 
 ---
 
@@ -324,11 +330,18 @@ go / no go - should we look for solutions?​
 who will plan next steps and when​
 is there a role for enterprise architects
 
-
-
 ---
 
 # Architecture Challenge Canvas
+
+1. problem
+
+    - Problem statement highlighting the negative impact on the business
+    - Who is impacted negatively by the problem?
+    - Who benefits from the problem?
+    - Why is is important now?
+    - What important things don't we know?
+    - How can enterprise architects help?
 
 ---
 
