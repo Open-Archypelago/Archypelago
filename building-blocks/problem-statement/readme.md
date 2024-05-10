@@ -23,13 +23,13 @@ At the end of the workshop, there should be
 This building block has two components
 
 - workshop outline
-    - created as markdown
+    - created as [markdown](https://github.com/Open-Archypelago/Archypelago/blob/0fe366d0bd7c17e4fd9aa3fbb73a782c31818833/building-blocks/problem-statement/Architecture-Challenge.md)
     - PDF, word and PowerPoint version have been generated from the markdown using Pandoc
 - a simple canvas to capture the workshop output
     - created in Archi
     - PDF version created in Archi
 
-Copy these artifacts and adapt them to your specific needs.
+Copy [these artifacts ](https://github.com/Open-Archypelago/Archypelago/tree/0fe366d0bd7c17e4fd9aa3fbb73a782c31818833/building-blocks/problem-statement)and adapt them to your specific needs.
 
 Archypelago must be acknowledged as the original source. The license agreement must be adhered to.
 
