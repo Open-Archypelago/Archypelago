@@ -1,6 +1,6 @@
 
 # Architecture Challenge Statement Development​
-### Alan Inglis - Open Archypelago
+### Created by The Archypelago Community
 This project is licensed under the GPL-3.0 License - see the [LICENSE.md](https://github.com/Open-Archypelago/Archypelago/blob/main/LICENSE) file for details
 
 ---
@@ -12,6 +12,7 @@ At the end of this workshop, we should have​
 
 - Identified the problem​
 - Gained an understanding what successful resolution looks like​
+- Established there is a potential route to success
 - Identified the key stakeholders who must commit to delivering success​
 - Determined if there is potential enterprise architecture to do​
 
@@ -44,9 +45,9 @@ EA engagement is likely to be front loaded focused on defining current state, ta
 
 # Wicked Problems
 
-- poorly understood
-- constantly changing problem with complex interdependencies
-- often have significant social / people complexity​
+- are poorly understood
+- have constantly changing problem with complex interdependencies
+- often have significant social / people / political complexity​
 - large parts of the currrent and / or target state cannot be defined with confidence
 - Enterprise Architects can help
     - make sense of the complexity
@@ -77,11 +78,11 @@ e.g.​
 - A formal request for architecure work is made
 - A senior stakeholder says "take a look at this..."​
 - An EA gets an idea at a conference​
-- An EA hears a worrying statement in a meeting about...​
-  - Project​
-  - Technical debt​
-  - Lack of collaboration​
-  - Siloes​
+- An EA hears a worrying statement about...​
+  - a project​
+  - technical debt​
+  - lack of collaboration​
+  - siloes​
 - An experienced EA just gets a sense that something is wrong!​
 
 ---
@@ -90,12 +91,12 @@ e.g.​
 
 There are three formats that we use
 
-- Informal with EAs only​
+- Informal with EAs only​ (these can be quite quick)
 - More formal with key stakeholders and EAs​
 - Multiple stakeholder meetings followed by a joint playback​
 
 - the workshop may be held as one intensive session or a series of shorter sessions over several days
-- the facilitator shoudl consider giving the participants breaks after each section
+- the facilitator should consider giving the participants breaks after each section
 
 ---
 
@@ -119,7 +120,7 @@ Meetings can be fully remote​
 
 > *Hi AP*
 >
-> *As I am sure you are aware we have major challenges with providing insights to leaders within the business.*
+> *As I am sure you are aware we have major challenges with [brief description of the challenge].*
 >
 > *We are running a workshop to develop a strong problem statement and work out how to kick off an initiative to improve the situation.*
 > *You will see an invitation to a video call in your inbox soon.*
@@ -159,14 +160,17 @@ The workshop will require these roles to be successful -
 ---
 
 # Workshop Agenda
-1. The challenge (15 - 20 minutes)
-1. Problem identification and analysis (60  - 90 minutes)
-1. Success description and analysis (45 - 60 minutes)
-1. Route to value identification and analysis (45 - 60 minutes)
-1. Key stakeholders (45 - 60 minutes)
+
+1. The challenge (10 - 20 minutes)
+1. Problem identification and analysis (30  - 90 minutes)
+1. Success description and analysis (30 - 60 minutes)
+1. Route to value identification and analysis (30 - 60 minutes)
+1. Key stakeholders (20 - 60 minutes)
 1. Decisions (10 - 20 minutes)
 
-### Total duration - 4 to 6 hours (including breaks)
+if the challenge is complex or the attendees are not familiar with it then the duraction will be longer.
+
+### Total duration - 2 to 6 hours (including breaks)
 
 ---
 
