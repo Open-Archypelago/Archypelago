@@ -1,76 +1,54 @@
-# Problem Statement Building Block
+# Architecture Challenge Building Block
 
 Workshop structure and template for producing an effective enterprise architecture problem statement.
 
 ## Description
 
-There are four steps in the workshop:
-- problem description
-  - how does this damage the business?
-  - will key business stakeholders recognise the problem
-  - what makes it important
-  - why now
-  - why are enterpriser architects necessary
-- description of how we know when problem is solved
-  - what is the maximum that should be paid to solve this problem
-  - what does success look like
-  - how do we measure it
-  - when must success be delivered
-  - can it success be phased
-  - can we stop before we get to success
-  - risks, issues, blockers, concerns, constraints
-  - any critical details that could derail us
-- key stakeholders
-  - who pays
-  - who cares
-  - who can cause problems
-  - who needs to support
-  - who do we need to persuade to back us
-- decisions
-  - go / no go - should we look for solutions?
-  - who will plan next steps and when
+There are four steps in the workshop
 
-At the end of the workshop, there should be:
+- problem description
+- description of how we know when problem is solved
+- key stakeholders
+- decisions
+
+At the end of the workshop, there should be
+
 - an agreed well formed problem statement
+- a description of what success looks like
 - a decision on whether to prioritise architecture activity
 - an owner to communciate the outcome and take it forward 
 
 ## Getting Started
 
-### Dependencies
+This building block has two components
 
-- None
+- workshop outline
+    - created as markdown
+    - PDF, word and PowerPoint version have been generated from the markdown using Pandoc
+- a simple canvas to capture the workshop output
+    - created in Archi
+    - PDF version created in Archi
 
-### Copying
+Copy these artifacts and adapt them to your specific needs.
 
-- TBD
+Archypelago must be acknowledged as the original source. The license agreement must be adhered to.
 
-## Tailoring
+In simplified terms this means
 
-- TBD
-
-### Using
-
-- TBD
+- Freedom to use and modify: You can use these artifacts for any purpose, including commercial use, and make changes to it.
+ - Sharing requirements: If you distribute modified versions, you must make the source publicly available under the same GPLv3 license.
+- No warranty: These artifacts are provided without warranty, meaning the creators aren't liable for any issues.
 
 ## Help
 
-- TBD
-
-## Authors
-
-Contributors names and contact info:
-- Alan Inglis (alan.inglis@bcs.org)
+Raise an issue!
 
 ## Version History
 
 * 0.1
-    * TBD
+    * first draft
 
 ## License
 
 This project is licensed under the GPL-3.0 License - see the [LICENSE.md](https://github.com/Open-Archypelago/Archypelago/blob/main/LICENSE) file for details
 
-## Acknowledgments
-
-TBD

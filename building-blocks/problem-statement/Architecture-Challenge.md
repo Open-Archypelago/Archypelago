@@ -1,12 +1,14 @@
 
 # Architecture Challenge Statement Development​
 ### Created by The Archypelago Community
+
 This project is licensed under the GPL-3.0 License - see the [LICENSE.md](https://github.com/Open-Archypelago/Archypelago/blob/main/LICENSE) file for details
 
 ---
 
 # Overview
-Before we start on any architecture work we need to know what business problem aim to solve​ and that we can add value
+
+Before we start on any architecture work we need to know what business problem aim to solve​ and that we can add value as enterprise architects
 
 At the end of this workshop, we should have​
 
@@ -14,7 +16,7 @@ At the end of this workshop, we should have​
 - Gained an understanding what successful resolution looks like​
 - Established there is a potential route to success
 - Identified the key stakeholders who must commit to delivering success​
-- Determined if there is potential enterprise architecture to do​
+- Determined if there is potential enterprise architecture work to carry out
 
 ---
 
@@ -23,8 +25,11 @@ At the end of this workshop, we should have​
 Enterprise architects (EAs) add value by
 
 - making sense of complexity
-- navigating through complexity
+- showing how to navigate complexity
+- guide the reduction in unnecessary complexity
 - helping to manage uncertainty
+
+EAs help organisations address messy and wicked problems that have strategic impacts
 
 ---
 
@@ -32,21 +37,21 @@ Enterprise architects (EAs) add value by
 
 - have high process, data or technology complexity
 - problem space is reasonably stable or changes in a predictable way
-- target state can be defined with a reasonable level of confidence
+- target state scenarios can be defined with reasonably sound assumptions
 - Enterprise Architects can help
     - make sense of the complexity
-    - define a target state
-    - define a roadmap to deliver the target
+    - define target state scenarios
+    - define roadmaps to guide the delivery of a target
     - define an incremental approach to benefits delivery
 
-EA engagement is likely to be front loaded focused on defining current state, target state and the roadmap followed by a supporting role to help maintain the overall integrity of the approach in the delivery progresses
+EA engagement is likely to be front loaded focused on defining current state, target state and the roadmap followed by a supporting role to help maintain the overall integrity of the approach as the business and technology changes progress
 
 ---
 
 # Wicked Problems
 
-- are poorly understood
-- have constantly changing problem with complex interdependencies
+- are poorly understood, are ambiguous
+- have a constantly changing problem space with complex interdependencies
 - often have significant social / people / political complexity​
 - large parts of the currrent and / or target state cannot be defined with confidence
 - Enterprise Architects can help
@@ -55,7 +60,7 @@ EA engagement is likely to be front loaded focused on defining current state, ta
     - define experiments and nudges to enable learning
     - define an incremental approach to benefits delivery
 
-EA engagement is likely to be continual during the programme
+EA engagement is likely to be continual during the programme which will be based on an agiler learning approach
 
 ---
 
@@ -142,6 +147,7 @@ The workshop will require these roles to be successful -
 - Challenge owner - presents the challenge, makes decisions when asked to do so by the Facilitator, maybe a proxy for a key stakeholder
 - Scribe - makes notes when asked to do so by the facilitator
 - Timekeeper - keeps time when asked to do so by the facilitator
+- Experts - the Facilitator should think about what knowledge is necessary to conclude the workshop successfully. Do "experts" need to be presnt for some or all sessions? Can they be engaged in advance and provide workshop materials for use ion the sessions or as pre-read materials?
 
 ---
 
@@ -152,10 +158,12 @@ The workshop will require these roles to be successful -
 3. No distractions from phones or emails or chat
     - switch off notifications
     - we will have breaks
-1. Don't worry about children, pets, partners, deliveries, builders, etc
+    - try to schedule a work crisis for another time!
+1. However, don't worry about children, pets, partners, deliveries, builders, etc
     - they will interrupt and distract, it is OK!
     - this is normal!
     - sometimes they help with the creativity...
+1. If you need a break, just say so
 
 ---
 
@@ -168,7 +176,7 @@ The workshop will require these roles to be successful -
 1. Key stakeholders (20 - 60 minutes)
 1. Decisions (10 - 20 minutes)
 
-if the challenge is complex or the attendees are not familiar with it then the duraction will be longer.
+If the challenge is complex or the attendees are not familiar with it then the duraction will be longer.
 
 ### Total duration - 2 to 6 hours (including breaks)
 
@@ -179,23 +187,19 @@ if the challenge is complex or the attendees are not familiar with it then the d
 
 1. Introduction
 
-    - We are here to discuss [the challenge]
-    - The purpose of this workshop is to
+    - We are here to discuss [the challenge], we aim to
       - Clearly define the problem​
       - Understand what successful resolution looks like​
       - Identify the key stakeholders who must commit to delivering success​
-      - Determine the of enterprise architecture
+      - Determine the role of enterprise architecture
 
-2. Quick personal introductions if everyone does not know each other
+2. Quick personal introductions if necessary
 
-    - name
-    - 2 words describing what you do
+    - name and 2 words describing what you do
 
 4. The challenge
 
-    - [challenge owner] will now set the scene for the workshop by briefly describing the challenge*
-    - The challenge that we see is [challenge description]*
-    - We don't have strong evidence but the impact that we see anecdotally is [examples]*
+    - [challenge owner] will now set the scene for the workshop by briefly describing the challenge
 
 ---
 
@@ -278,15 +282,14 @@ if the challenge is complex or the attendees are not familiar with it then the d
 
 # Route to Value Analysis
 
-1. The next step is to adjust our route to make sure that we being **realistic**. The following questions can be used as a start point
+1. The next step is to adjust our route to make sure that we are being **realistic**. The following questions can be used as a start point
 
-    - What is the maximum that should be paid to solve this problem​?
+    - What is the maximum cost and time to solve this problem​?
     - What are the major steps required to deliver the ideal​?
     - Can these be delivered?
-    - Can the ideal be delivered in phases?
+    - Can the benefits be delivered in phases?
     - Is there a point before we get to the ideal that is "good enough"?
-    - What are the big risks, issues, blockers, concerns, constraints​ that may stop us achieving the ideal?
-    - Are any critical details that could derail us​?
+    - What are the risks, issues, blockers, concerns, constraints​ or critical details that may stop us achieving the ideal?
     - How does this change our definition of success?
     - Is it **significant**, **measureable** and **ambitious**?​
 
@@ -330,25 +333,12 @@ if the challenge is complex or the attendees are not familiar with it then the d
 
 # Decisions
 
-go / no go - should we look for solutions?​
-who will plan next steps and when​
-is there a role for enterprise architects
+1. go / no go - is this worth pursuing?
+1. do we need any approvals or support to proceed?
+3. should we look for solutions?​
+4. who will plan next steps and when​?
+5. is there a role for enterprise architects?
 
 ---
 
-# Architecture Challenge Canvas
 
-1. problem
-
-    - Problem statement highlighting the negative impact on the business
-    - Who is impacted negatively by the problem?
-    - Who benefits from the problem?
-    - Why is is important now?
-    - What important things don't we know?
-    - How can enterprise architects help?
-
----
-
-# Example
-
----
