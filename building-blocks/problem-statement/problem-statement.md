@@ -24,6 +24,13 @@ The facilitator then leads an analysis of the summary to firm up the  descriptio
 - What makes it **significant**​ to the business stakeholders?
 - What makes it **important** to do something **now**?​
 
+If an agreed statement cannot be created then the following steps should be taken
+
+- the challenge owner will decide on the statement
+- challenges to this statement will be captured as
+   - hypotheses to be tested
+   - tests that prove or disprove the hypotheses
+
 ---
 
 # Summary
@@ -34,6 +41,7 @@ Summarise the output under the following headings
 - Who is impacted and how?
 - Why is it significant?
 - Why now?
+- Alternatives and tests (if required)
 
 ---
 
