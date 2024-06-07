@@ -1,35 +1,16 @@
-# Architecture Challenge Building Block
+# Problem Statement Building Block
 
-Workshop structure and template for producing an effective enterprise architecture problem statement.
+AThis atrifact describes how to runa short workshop session to identify the problem or opportunity that is beiogn addressed
 
 ## Description
 
-There are four steps in the workshop
-
-- problem description
-- description of how we know when problem is solved
-- key stakeholders
-- decisions
-
-At the end of the workshop, there should be
-
-- an agreed well formed problem statement
-- a description of what success looks like
-- a decision on whether to prioritise architecture activity
-- an owner to communciate the outcome and take it forward 
+The session has two parts. The first gathers the perspectives of individual stakeholders. The second analyses and structures these ideas.
 
 ## Getting Started
 
-This building block has two components
+This building block has one component which describes the role of enterprise architects. This is provided in a number formats.
 
-- workshop outline
-    - created as [markdown](https://github.com/Open-Archypelago/Archypelago/blob/0fe366d0bd7c17e4fd9aa3fbb73a782c31818833/building-blocks/problem-statement/Architecture-Challenge.md)
-    - PDF, word and PowerPoint version have been generated from the markdown using Pandoc
-- a simple canvas to capture the workshop output
-    - created in Archi
-    - PDF version created in Archi
-
-Copy [these artifacts ](https://github.com/Open-Archypelago/Archypelago/tree/0fe366d0bd7c17e4fd9aa3fbb73a782c31818833/building-blocks/problem-statement)and adapt them to your specific needs.
+Copy [these artifacts ](https://github.com/Open-Archypelago/Archypelago/tree/c6b1c52637f61c1229a9698a9cc449a4d1f53189/building-blocks/problem-statement)and adapt them to your specific needs.
 
 Archypelago must be acknowledged as the original source. The license agreement must be adhered to.
 
