@@ -24,7 +24,19 @@ EAs help organisations address messy and wicked problems that have strategic imp
 - often have significant social / people / political complexity​
 - large parts of the currrent and / or target state cannot be defined with confidence
 
-# Or A mix of both
+# Tame Problems
+
+- Problems that are neither messy or wicked
+
+---
+
+# Analyse the Problem Space
+
+- Break down the problem space into compoennts that are:
+    - Messy
+    - Wicked
+    - Simple
+- Design the enterprise architecture response to suit each part of the problem space
 
 ---
 
@@ -52,10 +64,23 @@ EA engagement is likely to be continual during the programme which will be based
 
 ---
 
-# A Problem with both Wicked and Messy Parts
+# Tame Problems
 
-- Identify components of the problem space that are Messy and those that are Wicked
-- Design the enterprise architecture response to suit each part of the problem space
+- These should be left to the execution team to deliver with minimal involvement from enterprise architects
+- Intervention may be required where
+   - standard do not exist
+   - the organisation lacks expertise in how to apply the standards
+- Where interventions are required the aim should be to help the execution become self sufficient as quickly as possible
+
+---
+
+# Do Enterprise Architects have a Role?
+
+- Is this a tame, messy or wicked problem?
+- What value will enterprise architects bring to the challenge?
+- Does this challenge align with enterprise architecture priorities?
+- Is there sufficient availability of enterprise architects to support this challenge?
+
 
 ---
 
