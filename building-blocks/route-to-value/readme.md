@@ -1,6 +1,6 @@
-# Definition of Success Building Block
+# Route to Value Building Block
 
-This artifact describes how to run a short workshop session to define "what good looks like".
+This artifact describes how to run a short workshop session to define a "route to value".
 
 ## Description
 
@@ -10,7 +10,7 @@ The session has two parts. The first gathers the perspectives of individual stak
 
 This building block has one component which describes structure of the workshop. This is provided in a number formats.
 
-Copy [these artifacts](https://github.com/Open-Archypelago/Archypelago/tree/main/building-blocks/what-good-looks-like) and adapt them to your specific needs.
+Copy [these artifacts](https://github.com/Open-Archypelago/Archypelago/tree/main/building-blocks/route-to-value) and adapt them to your specific needs.
 
 Archypelago must be acknowledged as the original source. The license agreement must be adhered to.
 
