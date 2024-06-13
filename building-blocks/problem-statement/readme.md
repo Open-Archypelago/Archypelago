@@ -1,6 +1,6 @@
 # Problem Statement Building Block
 
-AThis atrifact describes how to runa short workshop session to identify the problem or opportunity that is beiogn addressed
+This artifact describes how to runa short workshop session to identify the problem or opportunity that is beign addressed
 
 ## Description
 
