@@ -1,0 +1,34 @@
+# Stakeholder Motivations Building Block
+
+This artifact describes how to run a short workshop session to identify key stakeholders and their motivation to support a proposal.
+
+## Description
+
+The session has two parts. The first gathers the perspectives of individual stakeholders. The second analyses and structures these ideas.
+
+## Getting Started
+
+This building block has one component which describes structure of the workshop. This is provided in a number formats.
+
+Copy [these artifacts](https://github.com/Open-Archypelago/Archypelago/tree/main/building-blocks/stakeholders) and adapt them to your specific needs.
+
+Archypelago must be acknowledged as the original source. The license agreement must be adhered to.
+
+In simplified terms this means
+
+- Freedom to use and modify: You can use these artifacts for any purpose, including commercial use, and make changes to it.
+ - Sharing requirements: If you distribute modified versions, you must make the source publicly available under the same GPLv3 license.
+- No warranty: These artifacts are provided without warranty, meaning the creators aren't liable for any issues.
+
+## Help
+
+Raise an issue!
+
+## Version History
+
+* 0.1
+    * first draft
+
+## License
+
+This project is licensed under the GPL-3.0 License - see the [LICENSE.md](https://github.com/Open-Archypelago/Archypelago/blob/main/LICENSE) file for details
