@@ -52,7 +52,7 @@ Raise an issue!
 * 0.1
     * first draft
 * 0.2
-    * brole monlithic building block into multiple components and published as a proposition
+    * broke monlithic building block into multiple components and published as a proposition
 
 ## License
 
