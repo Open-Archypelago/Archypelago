@@ -119,7 +119,7 @@ Meetings can be fully remote​
 1. [Key stakeholders](https://github.com/Open-Archypelago/Archypelago/tree/main/building-blocks/stakeholders) (20 - 60 minutes)
 1. [Enterprise Architect Contribution](https://github.com/Open-Archypelago/Archypelago/tree/main/building-blocks/Architect-Value) (10 - 20 minutes)
 
-If the challenge is complex or the attendees are not familiar with it then the duraction will be longer.
+If the challenge is complex or the attendees are not familiar with it then the duration will be longer.
 
 ### Total duration - 2 to 6 hours (including breaks)
 
