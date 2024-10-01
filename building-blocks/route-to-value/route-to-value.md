@@ -3,7 +3,7 @@
 1. Ask the participants to write down about 10 bullet points that describe how success can be delivered
 
     - Write the notes individually without discussion and without showing them
-    - If you have any solution options, list them now, we are capturing them to sho wthat there are possible ways forward (we will not discuss them in detail in this workshop)
+    - If you have any solution options, list them now, we are capturing them to show that there are possible ways forward (we will not discuss them in detail in this workshop)
     - This should be idealistic, not realistic or pragmatic (we will add that later)
 
 1. All participants show their notes at the same time
