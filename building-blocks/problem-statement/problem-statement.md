@@ -3,7 +3,7 @@
 1. Ask the workshop participants to write down 2-3 bullet points that describe their perspective on the challenge
 
     - Write the notes individually without discussion and without showing them
-    - Ater a few minutes provide guidance to help generate a few more thoughts
+    - After a few minutes provide guidance to help generate a few more thoughts
         - What is the source of the opportunity or root cause of the problem?
         - Why is it important to address the challenge?
         - Do not think about solutions
