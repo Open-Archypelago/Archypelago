@@ -15,7 +15,7 @@
 
 ---
 
-# Problem / Opporunity Analysis
+# Problem / Opportunity Analysis
 
 The facilitator then leads an analysis of the summary to firm up the  description and resolve any disagreements. The following questions can be used as a start point -
 
